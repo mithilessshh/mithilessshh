@@ -6,7 +6,7 @@ This is the place where I opensource stuff and break things 🤣
 - 🔭  I’m currently working on something cool 😉
 - 🌱  I’m currently learning Python,SQL
 - 📫 How to reach me mithileshn100@gmail.com
-- ⚡  Fun fact: I ❤️ 🐶s and FPS Gaming (GamerTag: Noobboi)
+- ⚡  Fun fact: I ❤️ FPS Gaming
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
